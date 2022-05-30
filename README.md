@@ -5,11 +5,8 @@
 
 <br>
 
-<div align="right">
-  <img src="https://c.tenor.com/W2XF4waGei8AAAAC/shuba-duck.gif"  width="100%vh">
-</div>
-
 <div style="display: inline" align="center">
+  <img align="right" src="https://media2.giphy.com/media/V1oAq9IfVTnvPrrKWe/giphy.gif?cid=790b76116b0cfb96bc3c70a1141818ea120442d5a38ff5a5&rid=giphy.gif&ct=s">
   <h3>I'm currently using:</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
