@@ -1,5 +1,7 @@
-### Hello, world! I'm Leo Fumagali 😁
+### Hello, world! I'm Leo Fumagali  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 ##
+
+<i>You can find me in any part of the world! I'm currently doing a bootcamp in Barcelona - Spain!</i>
 
 <div style="display: inline">
   <h3>I'm currently using:</h3>
@@ -20,8 +22,9 @@
   <ul>
     <li>Portuguese 🇧🇷
     <li>English 🇺🇸
+    <li>Spanish :es:
     <li>French 🇫🇷
-    <li>A little bit of Italian and German 🥲
+    <li>Learning Italian and German 🙌🏻
   </ul>
 </div>
 
