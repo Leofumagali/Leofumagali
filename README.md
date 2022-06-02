@@ -1,4 +1,4 @@
-### Hello, world! I'm Leo Fumagali  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### Hello, world! I'm Leo Fumagali 👋🏻
 ##
 
 <i>You can find me in any part of the world! I'm currently doing a bootcamp in Barcelona - Spain!</i>
