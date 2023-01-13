@@ -26,7 +26,7 @@
   <img align="center" title="GraphQL" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />        
   <img align="center" title="Jest" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" title="Kubernetes" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />          
+  <img align="center" title="Nestjs" alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />          
 </div>
   
 
