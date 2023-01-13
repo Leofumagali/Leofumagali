@@ -1,7 +1,7 @@
 ### Hello, world! I'm Leo Fumagali 👋🏻
 ##
 
-<i>You can find me in any part of the world! I'm currently doing a bootcamp in Barcelona - Spain!</i>
+<i>You can find me in any part of the world! I'm currently looking for new opportunities in Rio de Janeiro!</i>
 
 <br>
 
