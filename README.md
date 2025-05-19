@@ -1,53 +1,39 @@
-### Hello, world! I'm Leo Fumagali 👋🏻
-##
+### Hello, world! I'm Leo Fumagali&nbsp;&nbsp;👋🏻
 
-<i>You can find me in any part of the world! I'm currently looking for new opportunities in Rio de Janeiro!</i>
+> <i>One must still have chaos in oneself to be able to give birth to a dancing star.</i></br>
+>  <p align="center">— Friedrich Nietzsche, Thus Spoke Zarathustra</p>
 
-<br>
+<img align="right" src="https://media2.giphy.com/media/V1oAq9IfVTnvPrrKWe/giphy.gif?cid=790b76116b0cfb96bc3c70a1141818ea120442d5a38ff5a5&rid=giphy.gif&ct=s">
+
+🎓&nbsp;&nbsp;Postgraduate degree in Web Development </br>
+🧬&nbsp;&nbsp;Bachelor's degree in Bioinformatics </br>
+📍&nbsp;&nbsp;Living in Barcelona </br>
 
 <div style="display: inline" align="center" color="white">
-  <img align="right" src="https://media2.giphy.com/media/V1oAq9IfVTnvPrrKWe/giphy.gif?cid=790b76116b0cfb96bc3c70a1141818ea120442d5a38ff5a5&rid=giphy.gif&ct=s">
-  <h3><code>💻 I'm presently using:</code></h3>
-  <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="NextJS" alt="NextJS" height="30" width="30" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" /> 
-  <img align="center" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
-  <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" title="Express" alt="Express" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Status_iucn_EX_icon_blank.svg/2048px-Status_iucn_EX_icon_blank.svg.png" /> 
-  <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-
-<div style="display: inline" align="center">
-  <h3><code>📚 And learning...</code></h3>
-  <img align="center" title="GraphQL" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />        
-  <img align="center" title="Jest" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" title="Nestjs" alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />          
-</div>
   
+### 💻&nbsp;&nbsp;Tech Stack
 
-<br><br>
-
-<div>
-  <h4><code>Not only programming languages, but also:</code></h4>
-  <ul>
-    <li >Portuguese 🇧🇷
-    <li>English 🇺🇸
-    <li>Spanish :es:
-    <li>French 🇫🇷
-    <li>Learning Italian and German 🙌🏻
-  </ul>
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
 </div>
 
-##
+### 🌐&nbsp;&nbsp;Spoken Languages
 
-<div align="center">
-  <h3>Contact me on social medias:</h3>
-  <a href="https://instagram.com/leofumagali" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:leonardo.fumagali@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/leonardo-fumagali-1836a9214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+- Portuguese&nbsp;&nbsp;🇧🇷
+- English&nbsp;&nbsp;🇺🇸
+- Spanish&nbsp;&nbsp;🇪🇸
+- French&nbsp;&nbsp;🇫🇷
+- Italian&nbsp;&nbsp;🇮🇹
+- Learning Catalan&nbsp;&nbsp;✊🏻
+
+<p align="right">
+  <a href="mailto:leonardo.fumagali@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/leonardo-fumagali-1836a9214"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/leofumagali"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
