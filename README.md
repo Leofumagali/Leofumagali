@@ -10,7 +10,7 @@
 📍&nbsp;&nbsp;Living in Barcelona </br>
 
 <div style="display: inline" align="center" color="white">
-  
+
 ### 💻&nbsp;&nbsp;Tech Stack
 
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
@@ -23,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
 </div>
 
+</br>
+
 ### 🌐&nbsp;&nbsp;Spoken Languages
 
 - Portuguese&nbsp;&nbsp;🇧🇷
@@ -31,6 +33,8 @@
 - French&nbsp;&nbsp;🇫🇷
 - Italian&nbsp;&nbsp;🇮🇹
 - Learning Catalan&nbsp;&nbsp;✊🏻
+
+</br>
 
 <p align="right">
   <a href="mailto:leonardo.fumagali@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
