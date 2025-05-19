@@ -35,8 +35,9 @@
 - Learning Catalan&nbsp;&nbsp;✊🏻
 
 </br>
+</br>
 
-<p align="right">
+<p align="center">
   <a href="mailto:leonardo.fumagali@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/leonardo-fumagali-1836a9214"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/leofumagali"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
